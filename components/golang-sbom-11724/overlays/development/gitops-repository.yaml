@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: golang-sbom-11724-gitops-repository
+spec:
+  url: https://github.com/rhtap-test-organization-jk/golang-sbom-11724-gitops
